@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Poster Coldplay World Tour">
+  <defs>
+    <linearGradient id="cp-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1240" />
+      <stop offset="0.5" stop-color="#3b1d6e" />
+      <stop offset="1" stop-color="#0b0a1f" />
+    </linearGradient>
+    <radialGradient id="cp-glow" cx="0.5" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#cp-bg)" />
+  <circle cx="300" cy="300" r="230" fill="url(#cp-glow)" />
+  <g fill="none" stroke="#f9a8d4" stroke-opacity="0.55" stroke-width="2">
+    <circle cx="300" cy="300" r="80" />
+    <circle cx="300" cy="300" r="130" />
+    <circle cx="300" cy="300" r="180" />
+    <ellipse cx="300" cy="300" rx="220" ry="90" />
+    <ellipse cx="300" cy="300" rx="90" ry="220" />
+  </g>
+  <circle cx="300" cy="300" r="26" fill="#fdf2f8" />
+  <text x="300" y="600" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="4">COLDPLAY</text>
+  <text x="300" y="642" text-anchor="middle" fill="#e9d5ff" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">MUSIC OF THE SPHERES</text>
+  <text x="300" y="700" text-anchor="middle" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="6">WORLD TOUR 2026</text>
+  <rect x="240" y="726" width="120" height="2" fill="#a78bfa" />
+</svg>

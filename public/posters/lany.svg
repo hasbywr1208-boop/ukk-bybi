@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Poster LANY Soft World Tour">
+  <defs>
+    <linearGradient id="lany-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde68a" />
+      <stop offset="0.45" stop-color="#fca5a5" />
+      <stop offset="1" stop-color="#4c1d95" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#lany-bg)" />
+  <circle cx="300" cy="300" r="150" fill="#fff7ed" fill-opacity="0.35" />
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="3">
+    <path d="M0 420 Q150 330 300 420 T600 420" />
+    <path d="M0 470 Q150 380 300 470 T600 470" />
+    <path d="M0 520 Q150 430 300 520 T600 520" />
+  </g>
+  <text x="300" y="560" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="800" letter-spacing="10">LANY</text>
+  <text x="300" y="610" text-anchor="middle" fill="#fef3c7" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="4">SOFT WORLD TOUR</text>
+  <text x="300" y="680" text-anchor="middle" fill="#fde68a" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="6">LIVE 2026</text>
+</svg>
